@@ -1,0 +1,12 @@
+pip install faceapp\installs\requirements.txt
+
+faceapp>cd django_app
+.\face_venv\Scripts\activate
+cd face rec
+python manage.py runserver
+
+admin pw
+admin password000
+
+press s for stopping video camera feed
+

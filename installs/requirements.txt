@@ -1,0 +1,17 @@
+asgiref==3.4.1
+click==8.0.4
+cmake==3.22.3
+colorama==0.4.4
+Django==3.2.12
+django-filter==21.1
+dlib==19.8.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+importlib-metadata==4.8.3
+numpy==1.19.5
+opencv-python==4.5.5.64
+Pillow==8.4.0
+pytz==2022.1
+sqlparse==0.4.2
+typing_extensions==4.1.1
+zipp==3.6.0
